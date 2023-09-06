@@ -1,0 +1,12 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "Vanilla JavaScript movie guide with HTML and CSS",
+  "main": "./src/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
